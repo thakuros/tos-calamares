@@ -33,7 +33,7 @@ There are applications you need to install on your development computer in order
   </ul>
   We can install all of these by typing:
   <code>sudo pacman -S gcc cmake qt yaml-cpp python boost extra-cmake-modules kcoreaddons</code><br>
-  
+  <br>
 Additionally to build the software, you will need mkinit-openswap and ckbcomp packages. These are in the official <b>Thakur OS</b> repositories. If you are already running <a href="https://sourceforge.net/projects/arch-linux-gui">ALG</a> or <b>Thakur OS</b>, then you can install these dependencies with <br>
  <code>sudo pacman -S mkinitcpio-openswap</code> and<br>
  <code>sudo pacman -S ckbcomp</code><br>
