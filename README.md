@@ -1,6 +1,6 @@
 # tos-calamares
 <b>Calamares Installer for Thakur OS</b><br>
-Calamares is a universal installer framwork for Linux distribution. This repository contains Thakur OS specific modules & configurations above the framework.
+Calamares is a universal installer framwork for Linux distributions. This repository contains Thakur OS specific modules & configurations above the framework.
 This repository contains software which is still under development.<br>
 
 <h2>How to Get TOS-Calamares on your system to test it?</h2>
